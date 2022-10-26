@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "talksport",
+                "name": "TalkSport"
+            },
+            "author": "Phil Spencer",
+            "title": "‘They’re miles behind top-level European football ‘ – Ally McCoist admits Jason Cundy is right with scathin...",
+            "description": "",
+            "url": "https://talksport.com/football/1228925/celtic-rangers-champions-league-jason-cundy-ally-mccoist/",
+            "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2022/10/RF-TALKSPORT-CELTIC-RANGERS.jpg?strip=all&quality=100&w=1500&h=1000&crop=1",
+            "publishedAt": "2022-10-26T10:15:14Z",
+            "content": "Jason Cundy has declared that Scottish football is ‘light-years’ behind the rest of Europe… and even Ally McCoist agrees.\r\nCeltic and Rangers have struggled in the Champions League this season, with … [+3645 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+            "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+            "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+            "publishedAt": "2020-04-27T07:20:43Z",
+            "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+        }
+    ]
+}
