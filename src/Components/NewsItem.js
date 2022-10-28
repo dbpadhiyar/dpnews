@@ -9,7 +9,7 @@ export class NewsItem extends Component {
                     <span className="position-absolute top-0 translate-middle badge rounded-pill bg-success" style={{ left: "50%", zIndex: '1' }}>
                         {newsSource}
                     </span>
-                    <img src={imageUrl ? imageUrl : "https://talksport.com/wp-content/uploads/sites/5/2022/10/RF-TALKSPORT-CELTIC-RANGERS.jpg?strip=all&quality=100&w=1500&h=1000&crop=1"} className="card-img-top" alt="Image" height={'200px'} />
+                    <img src={imageUrl ? imageUrl : 'https://talksport.com/wp-content/uploads/sites/5/2022/10/RF-TALKSPORT-CELTIC-RANGERS.jpg?strip=all&quality=100&w=1500&h=1000&crop=1'} className="card-img-top" alt="look" height={'200px'} />
                     <div className="card-body">
                         <h5 className="card-title">{title}</h5>
                         <p className="card-text">{description}</p>

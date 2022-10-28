@@ -5,7 +5,7 @@ export default class Loader extends Component {
     render() {
         return (
             <div className="text-center">
-                <img src={spinner} alt='spinner' />
+                <img className='my-5' src={spinner} alt='Loader' />
             </div>
         )
     }
