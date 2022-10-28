@@ -20,12 +20,12 @@ export default class Country extends Component {
         return (
             <div class="dropdown-center">
                 <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
-                    Centered dropdown
+                    -- Select --
                 </button>
                 <ul class="dropdown-menu">
-                    <li><a class="dropdown-item" href="#">Action</a></li>
-                    <li><a class="dropdown-item" href="#">Action two</a></li>
-                    <li><a class="dropdown-item" href="#">Action three</a></li>
+                    <li><a class="dropdown-item" href="#">India</a></li>
+                    <li><a class="dropdown-item" href="#">U.S.A</a></li>
+                    <li><a class="dropdown-item" href="#">Spain</a></li>
                 </ul>
             </div>
         )

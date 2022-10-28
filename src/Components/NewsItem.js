@@ -6,7 +6,7 @@ export class NewsItem extends Component {
         return (
             <div className="my-3">
                 <div className="card">
-                    <span class="position-absolute top-0 translate-middle badge rounded-pill bg-success" style={{ left: "50%", zIndex: '1' }}>
+                    <span className="position-absolute top-0 translate-middle badge rounded-pill bg-success" style={{ left: "50%", zIndex: '1' }}>
                         {newsSource}
                     </span>
                     <img src={imageUrl ? imageUrl : "https://talksport.com/wp-content/uploads/sites/5/2022/10/RF-TALKSPORT-CELTIC-RANGERS.jpg?strip=all&quality=100&w=1500&h=1000&crop=1"} className="card-img-top" alt="Image" height={'200px'} />

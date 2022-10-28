@@ -1,0 +1,36 @@
+/--------------------Useful Link-----------------------------\
+1 => projects.wojtekmaj.pl/react-lifecycle-methods-diagram/
+/-------------------------------------------------------------\
+
+Question => What React Componet Lift Cycle ?
+Answer   => the series of processor which happen when we use react componet from mountiong to unmounting
+
+
+Question => What is mountiong ?
+Answer    => Birth of your componet
+
+Question => What is update ?
+Anser    => change in your componet
+
+Question => What is unmountiong ?
+Answer    => death of your componet
+
+Question => Method in  React Componet Lift Cycle?
+
+1.render() 
+    => use to render html of our componet. 
+    => required for class base componet.
+    => run during the mounting and updating of your componet
+
+2.componetDidMount()
+    => once render method run completed then componetDidMount() run.
+    => can set state,can use Async Await
+    => mostly used to fetch data
+
+3.componetDidUpdate()   
+    => when change in state or received new props componetDidUpdate() will run.
+    => props are readonly    
+
+4.componetWillUnmount() 
+    => call before unmounting
+    => mostly for clean up code    
