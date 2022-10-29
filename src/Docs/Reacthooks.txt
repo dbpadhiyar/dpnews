@@ -1,0 +1,13 @@
+/---------------------React Hook Questions---------------------\
+
+Questions => What is react hooks?
+Answer    => allow to use Features of class based componets in function based componets
+Answer    => it allows you to use "state" and other React   features without using class
+
+Questions => What Are Common react hooks?
+ 
+Answer 1  => useState()  => can update state and set initial value in state
+Answer 2  => useEffect() => to perform side effect(componetdidmount). we can perform some task when a variable update (componetdidupdate)
+Answer 3  => useContext() => 
+Answer 4  => useRef() => can hold one element reference
+/---------------------------------------------------------------\
